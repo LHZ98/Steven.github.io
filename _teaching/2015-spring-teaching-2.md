@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "CS 548"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Stevens Institute of Technology, Computer Science Department"
+date: 09/024 - 12/2024
 location: "City, Country"
 ---
 
